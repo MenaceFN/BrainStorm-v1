@@ -1,0 +1,7 @@
+1. **Go to <https://repl.it/signup> and make an account
+2. **Go to <https://repl.it/github/Aspect0003/AuraBot-Public>
+3. **Go to the ".env" file and change the email and password to yiur bots password (if you havent made one yet make one now)**
+4. **Click the green run button and wait for it to load**
+5. **Go to <https://bit.ly/epicauthcode> and sign in as your bots account and copy the response**
+6. **go back to the project and paste the response**
+7. **And your Done! Now you can add tour bot and enjoy its features! If you like this bot make sure to tell it to your friends we would really appreciate it. Thanks.**
